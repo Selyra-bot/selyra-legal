@@ -1,9 +1,9 @@
 // ⚠️ À COMPLÉTER AVANT LA MISE EN LIGNE : remplace les 3 valeurs ci-dessous.
 // Elles sont injectées automatiquement partout dans les pages.
 var SELYRA = {
-  editor: "[Nom ou pseudo de l'éditeur de Selyra]",
-  email: "[adresse e-mail de contact]",
-  support: "[lien d'invitation du serveur de support Discord]",
+  editor: "chelxy.dve",
+  email: "selyra.sav@gmail.com",
+  support: "https://discord.gg/tgMvUvh4h3",
 };
 
 document.querySelectorAll("[data-c]").forEach(function (el) {
